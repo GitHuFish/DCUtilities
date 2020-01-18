@@ -7,6 +7,7 @@
 //
 
 #import "MethodSets.h"
+#import "UIColor+DCUtil.h"
 //#import <CommonCrypto/CommonDigest.h>
 //#import <sys/sysctl.h>
 
