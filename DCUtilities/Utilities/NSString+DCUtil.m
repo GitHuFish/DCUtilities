@@ -7,7 +7,6 @@
 //
 
 #import "NSString+DCUtil.h"
-#import "MethodSets.h"
 
 @implementation NSString (DCUtil)
 
